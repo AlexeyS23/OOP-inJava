@@ -1,4 +1,4 @@
-package com.company.class24.InterfaceDemo.PrTask5;
+package com.company.class24.InterfaceDemo.ProjectClassOOP.PrTask1.PrTask5;
 //Create Registration Class in which you would have variables as email,
 //userName and password that have an access scope only within its own class.
 //After creating an object of the class user should be able to call methods

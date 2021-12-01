@@ -1,4 +1,4 @@
-package com.company.class24.InterfaceDemo.PrTask3;
+package com.company.class24.InterfaceDemo.ProjectClassOOP.PrTask1.PrTask3;
 
 public class CarTester {
     public static void main(String[] args) {

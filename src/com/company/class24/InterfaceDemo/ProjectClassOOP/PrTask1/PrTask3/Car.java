@@ -1,4 +1,4 @@
-package com.company.class24.InterfaceDemo.PrTask3;
+package com.company.class24.InterfaceDemo.ProjectClassOOP.PrTask1.PrTask3;
 // Create a Class Car that would have the following fields:
 //carPrice and color and method calculateSalePrice() which should be returning a price of the car.
 //Create 2 sub classes: Sedan and Truck.

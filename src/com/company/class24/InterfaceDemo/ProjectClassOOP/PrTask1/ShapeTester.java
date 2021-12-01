@@ -1,4 +1,4 @@
-package com.company.class24.InterfaceDemo.PrTask1;
+package com.company.class24.InterfaceDemo.ProjectClassOOP.PrTask1;
 
 public class ShapeTester {
     public static void main(String[] args) {

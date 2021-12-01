@@ -1,4 +1,4 @@
-package com.company.class24.InterfaceDemo.PrTask5;
+package com.company.class24.InterfaceDemo.ProjectClassOOP.PrTask1.PrTask5;
 
 public class RegistrationTester {
     public static void main(String[] args) {

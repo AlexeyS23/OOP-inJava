@@ -1,4 +1,4 @@
-package com.company.class24.InterfaceDemo.PrTask4;
+package com.company.class24.InterfaceDemo.ProjectClassOOP.PrTask1.PrTask4;
 public interface WebDriverInterface {
     void open();
     void close();

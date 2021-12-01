@@ -1,4 +1,4 @@
-package com.company.class24.InterfaceDemo.PrTask2;
+package com.company.class24.InterfaceDemo.ProjectClassOOP.PrTask1.PrTask2;
 //We have to calculate the average of marks obtained in three subjects by student A and by student B.
 // Create class 'Marks' with an abstract method 'getPercentage'
 // that will be returning the average percentage of marks.

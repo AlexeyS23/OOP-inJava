@@ -1,4 +1,4 @@
-package com.company.class24.InterfaceDemo.PrTask1;
+package com.company.class24.InterfaceDemo.ProjectClassOOP.PrTask1;
 //Create an Interface 'Shape' with undefined methods as calculateArea and calculatePerimiter.
 // Create 2 classes Circle & Square that implements functionality defined in the Shape Interface.
 // Test your code.
