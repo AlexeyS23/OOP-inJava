@@ -2,6 +2,7 @@ package com.company.class26.HWTasks1_2_3_4_7;
 
 import java.util.ArrayList;
 import java.util.LinkedHashSet;
+import java.util.Set;
 
 //How can you remove all duplicates from ArrayList?
 //aList.add("John");
@@ -26,6 +27,8 @@ public class RemoveAllDuplicates {
         LinkedHashSet<String>List=new LinkedHashSet<>();
         List.addAll(aList);
         System.out.println(List);
+
+
 
 
     }
