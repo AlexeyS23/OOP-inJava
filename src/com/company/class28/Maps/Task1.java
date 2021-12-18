@@ -27,5 +27,6 @@ public class Task1 {
         System.out.println(building.size());
         System.out.println(building);
 
+
     }
 }
