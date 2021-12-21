@@ -28,7 +28,7 @@ public class Task1 {
         System.out.println("The browser we are using: "+properties.get("browser"));
         System.out.println("URL is: "+properties.get("url"));
 
-
+        fileOutputStream.close();
 
 
 
